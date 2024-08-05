@@ -51,7 +51,7 @@ const TEXT_ERRORS = {
     blankRepeatPass: "Confirm password cannot be blank",
     passNotMatch: "Passwords doesn't match",
     blankCaptcha: "Captcha cannot be blank",
-    completeCaptcha: "Nice! You don't appear to the robot.",
+    completeCaptcha: "Nice! You don't appear to be a robot.",
     captchaNotMatch: "Captcha not matched. Please try again!",
     notChecked: "You must agree to the terms",
     notCheckedRadio: "Choose one variant",
